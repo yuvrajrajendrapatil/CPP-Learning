@@ -1,1 +1,6 @@
-#include <iostream>`r`n`r`nusing namespace std;`r`nint main(){`r`n    cout << "Hello Yuvi here and From Today Im Strating My C++ journey;`r`n return 0;`r`n}
+#include <iostream>
+using namespace std;
+int main(){
+    cout << "Hello Yuvi here and From Today Im Starting My C++ journey";
+    return 0;
+}
