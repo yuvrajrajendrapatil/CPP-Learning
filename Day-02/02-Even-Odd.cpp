@@ -1,10 +1,15 @@
-#include <iostreamecho using namespace std;
+#include <iostream>
+using namespace std;
 
 int main() {
     int n;
     cout << "Enter a Number : " << endl;
     cin >> n;
-    if(n %% 2 == 0) cout << "It is Even Number";
-    else cout << "It is Odd Number";
+
+    if(n % 2 == 0)
+        cout << "It is Even Number";
+    else
+        cout << "It is Odd Number";
+
     return 0;
 }
